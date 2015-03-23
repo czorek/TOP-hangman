@@ -1,0 +1,17 @@
+--- !ruby/object:Hangman
+gamestate:
+  :turns: 5
+  :secret_word: closed
+  :secret_word_array:
+  - _
+  - _
+  - o
+  - _
+  - e
+  - _
+  :guessed:
+  - e
+  - a
+  - o
+  - p
+  - e
